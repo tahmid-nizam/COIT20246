@@ -56,9 +56,7 @@ Thank you for your patience! Let’s ensure all assets are included in the table
 | 7         | Forces of nature               | 47       | Network    | DHCP Servers                      | 1       |       | DHCP server failure during a power outage             |
 | 7         | Forces of nature               | 48       | Network    | DNS Servers                       | 1       |       | DNS server failure due to natural disaster            |
 | 1         | People errors                  | 49       | People     | Network Admin                     | 1       |       | Admin misconfiguration of network settings            |
-| 1         | People errors                  | 50       |
-
- People     | IT Support Staff                  | 1       |       | IT staff member mistakenly deletes critical files     |
+| 1         | People errors                  | 50       | People     | IT Support Staff                  | 1       |       | IT staff member mistakenly deletes critical files     |
 | 1         | People errors                  | 51       | People     | Security Personnel                | 1       |       | Security personnel overlooks an unauthorized entry    |
 | 1         | People errors                  | 52       | People     | System and DB Admins              | 1       |       | Admin mistakes lead to data exposure                  |
 | 1         | People errors                  | 53       | People     | Administrative Staff              | 1       |       | Administrative error causes sensitive data to be shared |

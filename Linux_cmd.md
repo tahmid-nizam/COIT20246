@@ -23,6 +23,7 @@ cat example1.html
 
 nano mynewFile.html
 (create new file with nano)
+
 --------------------------
 
 ls /srv/www
